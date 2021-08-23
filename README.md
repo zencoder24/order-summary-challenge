@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Live Site URL: [https://order-summary-challenge1.vercel.app/](https://order-summary-challenge1.vercel.app/)
 
 ## My process
 
