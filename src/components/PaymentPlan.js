@@ -34,7 +34,8 @@ const PaymentPlan = () => {
                 <Header as="h4" >Annual Plan</Header>
                 <p>$59.99/year</p>
             </div>
-            <a onMouseOver={MouseOverChange} onMouseOut={MouseOutChange} style={{flex: 1, fontWeight: 700}} href="#" >Change</a>
+            <p onMouseOver={MouseOverChange} onMouseOut={MouseOutChange}
+               style={{flex: 1, fontWeight: 700, color:'hsl(245, 75%, 52%)', textDecoration: 'underline', cursor:   'pointer' }}  >Change</p>
 
         </div>
     );
