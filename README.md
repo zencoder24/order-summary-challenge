@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [https://order-summary-challenge1.vercel.app/](https://order-summary-challenge1.vercel.app/)
+- Live Site URL: [Vercel](https://order-summary-challenge.vercel.app/)
 
 ## My process
 
